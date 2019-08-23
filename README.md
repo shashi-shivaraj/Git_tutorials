@@ -1,3 +1,1 @@
-# Git_tutorials by defect1
-fxcbvmjbj
-fsfddsfd
+# Git_tutorials issue1
