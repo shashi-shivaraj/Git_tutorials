@@ -16,4 +16,8 @@ It will have the reference of the current branch from whhich it was branched out
 8)To delete a branch locally  = git branch -d/-D <branch_name>
   To delete a branch at remote = git push <remote_name> --delete <branch_name>
 
-9)To push a local branch to remote = git push -u origin <branch_name> 
+9)To push a local branch to remote = git push -u origin <branch_name>
+
+10)To update a branch = git pull
+
+11)Use github pull request to compare and merge changes from a branch to master; 
