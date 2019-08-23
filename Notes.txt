@@ -4,7 +4,8 @@
 
 3)To see commits to repo = git log
 
-4)To create a branch = git checkout -b <branch_name> or git branch <name>
+4)To create a branch = git checkout -b <branch_name> or git branch <name>;
+It will have the reference of the current branch from whhich it was branched out.
 
 5)To see the branches = git branch
 
