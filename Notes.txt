@@ -1,0 +1,5 @@
+1)To download an git repo = git clone <link>
+
+2)To commit to repo = git add <file>;git commit -m "<message>";git push <head> <branch>
+
+3)To Branch 
