@@ -2,4 +2,18 @@
 
 2)To commit to repo = git add <file>;git commit -m "<message>";git push <head> <branch>
 
-3)To Branch 
+3)To see commits to repo = git log
+
+4)To create a branch = git checkout -b <branch_name> or git branch <name>;
+It will have the reference of the current branch from whhich it was branched out.
+
+5)To see the branches = git branch
+
+6)To switch to a branch = git checkout <branch_name>
+
+7)To merge from other branch to current branch = git merge <other_branch>
+
+8)To delete a branch locally  = git branch -d/-D <branch_name>
+  To delete a branch at remote = git push <remote_name> --delete <branch_name>
+
+9)To push a local branch to remote = git push -u origin <branch_name> 
