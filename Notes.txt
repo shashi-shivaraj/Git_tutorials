@@ -2,4 +2,6 @@
 
 2)To commit to repo = git add <file>;git commit -m "<message>";git push <head> <branch>
 
-3)To Branch 
+3)To create a branch = git checkout -b <branch_name>
+
+4)To see the branches = git branch 
