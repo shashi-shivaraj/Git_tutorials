@@ -10,3 +10,5 @@ It will have the reference of the current branch from whhich it was branched out
 5)To see the branches = git branch
 
 6)To switch to a branch = git checkout <branch_name>
+
+7)To merge from other branch to current branch = git merge <other_branch>
