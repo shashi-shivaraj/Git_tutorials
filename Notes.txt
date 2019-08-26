@@ -20,4 +20,6 @@ It will have the reference of the current branch from whhich it was branched out
 
 10)To update a branch = git pull
 
-11)Use github pull request to compare and merge changes from a branch to master; 
+11)Use github pull request to compare and merge changes from a branch to master;
+
+12) 
